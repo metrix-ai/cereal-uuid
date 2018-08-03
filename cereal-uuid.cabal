@@ -1,7 +1,7 @@
 name:
   cereal-uuid
 version:
-  0.1.1
+  0.1.1.1
 synopsis:
   Integration of "cereal" and "uuid"
 homepage:
